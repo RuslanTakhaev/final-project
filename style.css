@@ -10,6 +10,7 @@ body {
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   background: #f8f9ff;
+  overflow-x: hidden;
 }
 
 img {
